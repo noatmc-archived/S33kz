@@ -1,6 +1,10 @@
 
-currently learning the whole java thing           discord - Seekz#0535
+currently learning the whole java thing       
 
-In process of developing a client no name yet     YouTube- Seekz
+In process of developing a client no name yet     
 
-epic crystal pvp                                  Reddit- S33kz
+epic crystal pvp 
+
+Discord- Seekz#0535
+
+YouTube- Seekz
