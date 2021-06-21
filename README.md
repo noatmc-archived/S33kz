@@ -1,7 +1,7 @@
 
 currently learning the whole java thing       
 
-In process of developing SeekzWare    
+In process of developing a client
 
 epic crystal pvp 
 
