@@ -1,10 +1,6 @@
+## i make/break things..
+#discord- Seekz#0535
+#Twitter- @xSeekz
+#youtube- Seekz
 
-currently learning the whole java thing       
-
-In process of developing a client
-
-epic crystal pvp 
-
-Discord- Seekz#0535
-
-YouTube- Seekz
+![image title](https://rushter.com/counter.svg)
