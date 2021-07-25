@@ -1,9 +1,9 @@
 ## i make/break things..
 
-discord- Seekz#0535
-twitter- @xSeekz
-youtube- Seekz
-currently working on a client if u wish to help dm me! Seekz#0535
+discord- Seekz#0535<br>
+twitter- @xSeekz<br>
+youtube- Seekz<br>
+currently working on a client if u wish to help dm me! Seekz#0535<br>
 
 <a href="https://github.com/S33kz/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
