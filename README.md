@@ -1,5 +1,6 @@
 ## Hi im Seekz
 
+my ign is Seekz_<br>
 discord- Seekz#0535<br>
 twitter- @xSeekz<br>
 youtube- Seekz<br>
