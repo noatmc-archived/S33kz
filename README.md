@@ -1,10 +1,10 @@
-## Hi im Seekz
+##        Hi im Seekz
 
-my ign is Seekz_<br>
-discord- Seekz#0535<br>
-twitter- @xSeekz<br>
-youtube- Seekz<br>
-gonna work on a client if u wish to help dm me on discord!<br>
+       my ign is Seekz_<br>
+       discord- Seekz#0535<br>
+       twitter- @xSeekz<br>
+       youtube- Seekz<br>
+       gonna work on a client if u wish to help dm me on discord!<br>
 
 <a href="https://github.com/S33kz/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
