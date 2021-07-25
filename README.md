@@ -1,5 +1,4 @@
-## hi im s33kz
-
+##Hi im Seekz
 
 discord- Seekz#0535<br>
 twitter- @xSeekz<br>
