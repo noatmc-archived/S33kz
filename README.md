@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://tenor.com/view/gengar-pokemon-animation-morph-loop-gif-13206951">
+<img src="https://media.tenor.com/images/b69f58a56e1eb5f274ecfabeb6325192/tenor.gif">
 </p>
 <p align="center">
     Seekz
