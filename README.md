@@ -1,5 +1,5 @@
 ## Hi im Seekz
-my ign is Seekz_<br>
+<li>my ign is Seekz_</li><br>
 discord- Seekz#0535<br>
 twitter- @xSeekz<br>
 outube- Seekz<br>
