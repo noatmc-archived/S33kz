@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://media.tenor.com/images/e2a84495c7db18fc8e09cbe95c818f36/tenor.gif">
+<img src="https://camo.githubusercontent.com/e9b18660ee5e998a6bcea9a68f3113215ada7b4c51ced6afbbc92274d1d0e798/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f62363966353861353665316562356632373465636661626562363332353139322f74656e6f722e676966">
 </p>
 <p align="center">
     𝙎𝙚𝙚𝙠𝙯
