@@ -2,7 +2,7 @@
 <img src="https://media.tenor.com/images/b69f58a56e1eb5f274ecfabeb6325192/tenor.gif">
 </p>
 <p align="center">
-    Seekz
+    𝙎𝙚𝙚𝙠𝙯
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=S33kz&color=grey">
 </p>
