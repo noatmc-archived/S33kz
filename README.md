@@ -12,5 +12,5 @@
 <p align="center">
 Currently learning JavaScript,Python,HTML,CSS
 <p align="center">
-    <a href="https://discord.gg/4nSYqZ8KAA">Discord Server</a>
+    <a href="https://discord.gg/7k8nAPymHc">Cosmos chad client</a>
 
